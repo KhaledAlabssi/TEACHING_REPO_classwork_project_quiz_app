@@ -1,36 +1,54 @@
 [
-    {
-        "question": " variable type, you use let keyword",
-        "answers": [
-            "ldlsdafo",
-            "dsaflk;asf",
-            "Not asdfkjlsure"
-        ],
+  {
+    "id": 1,
+    "name": "Car Exam",
+    "questions": [
+      {
+        "question": " Cr and acar",
+        "answers": ["ldlsdafo", "dsaflk;asf", "Not asdfkjlsure"],
         "correctAnswer": "Not asdfkjlsure"
-    },{
-        "question": "If you are not sure about variable type, you use let keyword",
-        "answers": [
-            false,
-            true,
-            "Not sure"
-        ],
+      },
+      {
+        "question": "Car is auto",
+        "answers": [false, true, "Not sure"],
         "correctAnswer": false
-    },
-    {
-        "question": " variable type, you use let keyword",
-        "answers": [
-            "ldlsdafo",
-            "dsaflk;asf",
-            "Not asdfkjlsure"
-        ],
+      },
+      {
+        "question": " machina is auto",
+        "answers": ["ldlsdafo", "dsaflk;asf", "Not asdfkjlsure"],
         "correctAnswer": "Not asdfkjlsure"
-    },{
-        "question": "If you are not sure about variable type, you use let keyword",
-        "answers": [
-            false,
-            true,
-            "Not sure"
-        ],
+      },
+      {
+        "question": "machina is gadi, good luck with it",
+        "answers": [false, true, "Not sure"],
         "correctAnswer": false
-    }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "JS Exam",
+    "questions": [
+      {
+        "question": " variable type, you use let keyword",
+        "answers": ["ldlsdafo", "dsaflk;asf", "Not asdfkjlsure"],
+        "correctAnswer": "Not asdfkjlsure"
+      },
+      {
+        "question": "If you are not sure about variable type, you use let keyword",
+        "answers": [false, true, "Not sure"],
+        "correctAnswer": false
+      },
+      {
+        "question": " variable type, you use let keyword",
+        "answers": ["ldlsdafo", "dsaflk;asf", "Not asdfkjlsure"],
+        "correctAnswer": "Not asdfkjlsure"
+      },
+      {
+        "question": "If you are not sure about variable type, you use let keyword",
+        "answers": [false, true, "Not sure"],
+        "correctAnswer": false
+      }
+    ]
+  }
 ]

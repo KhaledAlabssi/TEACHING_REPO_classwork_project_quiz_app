@@ -1,12 +1,20 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 
 
-function Thanks({score}) {
+function Thanks({score, setScore, setTest}) {
+
+  const navigate = useNavigate()
+
+  function clickHandler () {
+    setScore(0)
+    setTest({})
+    navigate('/')
+  }
   return (
     <div>
         <p>Thanks, your score is: {score}</p>
-        <Link to={'/'}><div className='btn'>Home</div></Link>
+        <div onClick={clickHandler} className='btn'>Home</div>
     </div>
   )
 }
