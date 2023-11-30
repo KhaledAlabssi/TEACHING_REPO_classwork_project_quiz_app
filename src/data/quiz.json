@@ -1,0 +1,36 @@
+[
+    {
+        "question": " variable type, you use let keyword",
+        "answers": [
+            "ldlsdafo",
+            "dsaflk;asf",
+            "Not asdfkjlsure"
+        ],
+        "correctAnswer": "Not asdfkjlsure"
+    },{
+        "question": "If you are not sure about variable type, you use let keyword",
+        "answers": [
+            false,
+            true,
+            "Not sure"
+        ],
+        "correctAnswer": false
+    },
+    {
+        "question": " variable type, you use let keyword",
+        "answers": [
+            "ldlsdafo",
+            "dsaflk;asf",
+            "Not asdfkjlsure"
+        ],
+        "correctAnswer": "Not asdfkjlsure"
+    },{
+        "question": "If you are not sure about variable type, you use let keyword",
+        "answers": [
+            false,
+            true,
+            "Not sure"
+        ],
+        "correctAnswer": false
+    }
+]
