@@ -1,5 +1,5 @@
-# TEACHING REPO: nextJS
-This repository contains code and examples used for teaching "Nextjs" Fo Frontend and Full Stack Development courses
+# TEACHING REPO: Classwork Project: Quiz App
+This repository contains code and examples used for teaching "reactjs web-app" Fo Frontend and Full Stack Development courses
 
 ## Purpose
 These examples are intended for instructional use and demonstrate basic concepts. They are not representative of production-level code or my professional work.
